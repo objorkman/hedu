@@ -28,9 +28,9 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="QvF-Ac-JUc">
-                                <rect key="frame" x="276" y="340" width="48" height="30"/>
+                                <rect key="frame" x="266" y="340" width="69" height="30"/>
                                 <animations/>
-                                <state key="normal" title="Say Hi!"/>
+                                <state key="normal" title="Say Hello!"/>
                             </button>
                         </subviews>
                         <animations/>
