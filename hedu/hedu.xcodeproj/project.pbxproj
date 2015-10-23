@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					551C6FC41BDADC6800E6A0B2 = {
 						CreatedOnToolsVersion = 7.1;
+						DevelopmentTeam = K8FUZZ3FQV;
 					};
 					551C6FD81BDADC6800E6A0B2 = {
 						CreatedOnToolsVersion = 7.1;
@@ -397,6 +398,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = hedu/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.andersbjorkman.hedu;
@@ -408,6 +410,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = hedu/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.andersbjorkman.hedu;
